@@ -22,4 +22,5 @@ pip install neat-python pygame-ce
 ## References
 
 > The Pygame Development Team. *Pygame Community Edition.* Nov. 2023. url: https://pyga.me/docs/
+
 > Alan McIntyre et al. *neat-python.* Mar. 2022. url: https://neat-python.readthedocs.io/en/latest/
